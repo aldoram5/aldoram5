@@ -101,6 +101,6 @@ The best projects are where both sides meet, built with love, care and passion.
 - email: [aldo@crimsonrgames.com](mailto:aldo@crimsonrgames.com)
 - stackoverflow: [aldoram5](https://stackoverflow.com/users/4142609/aldoram5)
 
-You can read my Blog [here].(https://aldoram5.github.io)
+You can read my Blog [here](https://aldoram5.github.io).
 
 Thanks for stopping by!
