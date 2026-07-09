@@ -34,7 +34,7 @@ jobs:
           card: top-langs
           options: username=aldoram5&layout=compact&theme=tokyonight&langs_count=8
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Commit generated cards
         run: |
