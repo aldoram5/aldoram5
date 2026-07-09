@@ -16,8 +16,8 @@ I started dreaming about making games when I was a kid playing **Super Mario Wor
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aldoram5&show_icons=true&theme=tokyonight" alt="Aldo's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldoram5&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img height="165" src="./profile/stats.svg" alt="Aldo's GitHub stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 ---
