@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Aldo Pedro Rangel Montiel's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 10, Total Commits  : 1917, Total PRs: 140, Total Issues: 8, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 10, Total Commits  : 2534, Total PRs: 160, Total Issues: 27, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 112.10431498187319;
+        stroke-dashoffset: 99.18949919625655;
       }
     }
   
@@ -177,7 +177,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >1.9k</text>
+      >2.5k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >140</text>
+      >160</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >8</text>
+      >27</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
