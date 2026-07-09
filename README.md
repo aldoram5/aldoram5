@@ -20,6 +20,8 @@ I started dreaming about making games when I was a kid playing **Super Mario Wor
   <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
+> This profile focuses on my personal, public, and indie game development work.  
+> Professional contributions in private company repositories are intentionally not included.
 ---
 
 ## What I like building
