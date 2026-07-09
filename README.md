@@ -38,6 +38,12 @@ I'm especially interested in:
 
 **Crimson R Games** is my personal game development studio and creative space.
 
+<p align="center">
+  <a href="https://www.crimsonrgames.com">
+    <img src="./profile/covercrgames.png" alt="Crimson R Games original characters" width="100%" />
+  </a>
+</p>
+
 Through it, I work on original games, characters, and interconnected stories. One of my long-term creative goals is to build a universe of games that can eventually connect together into a big story.
 
 ---
