@@ -80,7 +80,6 @@ Right now, I'm exploring and building ideas around:
 - Reviving my old Razor-X game in modern Unity 6 (it was developed 10 years ago in Unity 4.3 - 5)
 - Working on porting Wavy to Godot 4 and complete the game.
 - Making some games for my MininAIs
-- Getting the Colors of Love Re-colored ready to be launched on STEAM.
 
 ---
 
